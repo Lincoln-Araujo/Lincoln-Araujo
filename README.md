@@ -35,5 +35,5 @@
 </div>
                                                                                                                                      
 #### } 
-                                                                                                                                     
+## }                                                                                                                                     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Araujo&layout=compact)](https://github.com/Lincoln-Araujo/github-readme-stats)                                                                                                                                     
