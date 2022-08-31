@@ -2,10 +2,10 @@
 
 <h4 align="center">  FRONT-END DEVELOPER | JAVASCRIPT | REACT | HTML | CSS | UX LOVER <h4>
 
-<img src="https://www.canva.com/design/DAFK7gyE2OU/8eME0sJ9NyGFtXTol5sVjw/view?utm_content=DAFK7gyE2OU&utm_campaign=designshare&utm_medium=link&utm_source=viewer"/>
+<a>
+    <img src="https://raw.githubusercontent.com/<lincoln-araujo>/<Lincoln-Araujo>/<branch>/<./FRONT-END DEVELOPER.gif>"/>
+</a>
 
-
-[![LinkedIn](https://www.canva.com/design/DAFK7gyE2OU/8eME0sJ9NyGFtXTol5sVjw/view?utm_content=DAFK7gyE2OU&utm_campaign=designshare&utm_medium=link&utm_source=viewer)](https://www.linkedin.com/in/lincolnaraujo/) 
 
 ## class About Me {
 ####     Software Developer ( programming languages ) {
