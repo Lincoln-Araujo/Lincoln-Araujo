@@ -2,8 +2,8 @@
 
 <h4 align="center">  FRONT-END DEVELOPER | JAVASCRIPT | REACT | HTML | CSS | UX LOVER <h4>
 
-<a>
-    <img src="https://raw.githubusercontent.com/<lincoln-araujo>/<Lincoln-Araujo>/<branch>/<./FRONT-END DEVELOPER.gif>"/>
+<a href="https://www.linkedin.com/in/lincolnaraujo/" target="_blank">
+    <img src="./FRONT-END_DEVELOPER.gif"/>
 </a>
 
 
