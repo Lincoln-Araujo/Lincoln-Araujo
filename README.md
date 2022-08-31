@@ -7,8 +7,7 @@
 </a>
 
 
-## class About Me {
-####     Software Developer ( programming languages ) {
+## Some technologies I know: 
 
 <div style="display: inline_block"><br/>
     - 
@@ -60,8 +59,4 @@
     <a href="https://github.com/Lincoln-Araujo/Python">
         <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>  
     </a>
-</div>
-                                                                                                                                     
-#### } 
-## }                                                                                                                                     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Araujo&layout=compact)](https://github.com/Lincoln-Araujo/github-readme-stats)                                                                                                                                     
+</div>                                                                                                                                                                                                                                        
