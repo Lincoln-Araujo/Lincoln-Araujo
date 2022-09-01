@@ -3,7 +3,7 @@
 <h4 align="center">  FRONT-END DEVELOPER | JAVASCRIPT | REACT | HTML | CSS | UX LOVER <h4>
 
 <a href="https://www.linkedin.com/in/lincolnaraujo/" target="_blank">
-    <img src="./FRONT-END_DEVELOPER.gif"/>
+    <img src="./FRONT-END_DEVELOPERv2.gif"/>
 </a>
 
 
