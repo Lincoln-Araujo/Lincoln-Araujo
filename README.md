@@ -23,7 +23,7 @@
 ![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
       
     
-<h2 align="center"> My repositories </h2>
+<h2 align="center"> My Favorite Repositories </h2>
 
 [![rock paper and scissors](./rep1.png)](https://github.com/Lincoln-Araujo/Rock-Paper-Scissors-WebGame)
 [![pet book](./rep2.png)](https://github.com/Lincoln-Araujo/Pet-Book)
