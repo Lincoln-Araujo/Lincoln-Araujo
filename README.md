@@ -2,10 +2,13 @@
 
 <h4 align="center">  FRONT-END DEVELOPER | JAVASCRIPT | REACT | HTML | CSS | UX LOVER <h4>
 
+![made with markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+
+
+
 <a href="https://www.linkedin.com/in/lincolnaraujo/" target="_blank">
     <img src="./FRONT-END_DEVELOPERv2.gif"/>
 </a>
-
 
 <h2 align="center" > Some technologies I know: </h2> 
     
@@ -29,4 +32,16 @@
 [![pet book](./rep2.png)](https://github.com/Lincoln-Araujo/Pet-Book)
 [![pokedex](./rep3.png)](https://github.com/Lincoln-Araujo/Pokemon-Facts)
 
-#### You can check other repositories :arrow_right: [here](https://github.com/Lincoln-Araujo?tab=repositories) 
+### You can check other repositories :arrow_right: [here](https://github.com/Lincoln-Araujo?tab=repositories) 
+
+<h2 align="center"> My Achievements as a Developer </h2>
+
+Since I've started to program I have defy myself to learn even more, these are some of the most programming languages that I've used to code some projects: 
+
+![Lincoln Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Araujo&theme=blue-green)
+
+However, what is the most important achievement for me is coding since I've decided to become a software Developer. 
+
+Seeing every commit that I've made until today makes me feel proud of myself, coding has changed the way I see my own life in a better way than before.
+
+![Lincoln Repository's Stats](https://github-readme-stats.vercel.app/api?username=Lincoln-Araujo&theme=blue-green&show_icons=true)
