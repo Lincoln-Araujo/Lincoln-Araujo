@@ -25,4 +25,6 @@
     
 ## My repositories
 
-![[rock paper and scissors](./rockPaperAndScissors.png)]()
+![rock paper and scissors](./rockPaperAndScissors.png)
+![pet book](./petBook.png)
+![pokedex](./pokemon.png)
