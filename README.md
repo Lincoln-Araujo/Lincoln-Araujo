@@ -23,8 +23,10 @@
 ![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
       
     
-## My repositories
+<h2 align="center"> My repositories </h2>
 
-![rock paper and scissors](./rockPaperAndScissors.png)
-![pet book](./petBook.png)
-![pokedex](./pokemon.png)
+[![rock paper and scissors](./rep1.png)](https://github.com/Lincoln-Araujo/Rock-Paper-Scissors-WebGame)
+[![pet book](./rep2.png)](https://github.com/Lincoln-Araujo/Pet-Book)
+[![pokedex](./rep3.png)](https://github.com/Lincoln-Araujo/Pokemon-Facts)
+
+#### You can check other repositories :arrow_right: [here](https://github.com/Lincoln-Araujo?tab=repositories) 
