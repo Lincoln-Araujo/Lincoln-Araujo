@@ -26,7 +26,7 @@
 ![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
       
     
-<h2 align="center"> :sparkles: My Favorite Repositories :sparkles: </h2>
+<h2 align="center"> :sparkles: Favorite Repositories :sparkles: </h2>
 
 <div align="center" style="widht:100%">
     <a href="https://github.com/Lincoln-Araujo/Rock-Paper-Scissors-WebGame" target="_blank">
