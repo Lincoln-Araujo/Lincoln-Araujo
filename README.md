@@ -10,7 +10,7 @@
     <img src="./FRONT-END_DEVELOPERv2.gif"/>
 </a>
 
-<h2 align="center" > Some technologies I know: </h2> 
+<h2 align="center" > :pushpin: Some technologies I know: </h2> 
     
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +26,7 @@
 ![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
       
     
-<h2 align="center"> My Favorite Repositories </h2>
+<h2 align="center"> :sparkles: My Favorite Repositories :sparkles: </h2>
 
 <div align="center" style="widht:100%">
     <a href="https://github.com/Lincoln-Araujo/Rock-Paper-Scissors-WebGame" target="_blank">
@@ -43,7 +43,7 @@
 
 ### You can check other repositories :arrow_right: [here](https://github.com/Lincoln-Araujo?tab=repositories) 
 
-<h2 align="center"> My Achievements as a Developer </h2>
+<h2 align="center">:bar_chart: My Achievements as a Developer </h2>
 
 <div align="center" style="widht:100%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Araujo&theme=blue-green" alt="programming languages"/>
