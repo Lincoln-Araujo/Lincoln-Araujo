@@ -28,20 +28,30 @@
     
 <h2 align="center"> My Favorite Repositories </h2>
 
-[![rock paper and scissors](./rep1.png)](https://github.com/Lincoln-Araujo/Rock-Paper-Scissors-WebGame)
-[![pet book](./rep2.png)](https://github.com/Lincoln-Araujo/Pet-Book)
-[![pokedex](./rep3.png)](https://github.com/Lincoln-Araujo/Pokemon-Facts)
+<div align="center" style="widht:100%">
+    <a href="https://github.com/Lincoln-Araujo/Rock-Paper-Scissors-WebGame" target="_blank">
+        <img src="./rep1.png" alt="rock paper and scissors"/>
+    </a>
+    <a href="https://github.com/Lincoln-Araujo/Pet-Book">
+        <img src="./rep2.png" alt="pet book"/>
+    </a>
+    <a href="https://github.com/Lincoln-Araujo/Pokemon-Facts" target="_blank">
+        <img src="./rep3.png" alt="pokedex"/>
+    </a>
+</div>
+
 
 ### You can check other repositories :arrow_right: [here](https://github.com/Lincoln-Araujo?tab=repositories) 
 
 <h2 align="center"> My Achievements as a Developer </h2>
 
-Since I've started to program I have defy myself to learn even more, these are some of the most programming languages that I've used to code some projects: 
+<div align="center" style="widht:100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Araujo&theme=blue-green" alt="programming languages"/>
+</div>
 
-![Lincoln Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Araujo&theme=blue-green)
+<div align="center" style="widht:100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lincoln-Araujo&theme=blue-green&show_icons=true"/>
+</div>
 
-However, what is the most important achievement for me is coding since I've decided to become a software Developer. 
 
-Seeing every commit that I've made until today makes me feel proud of myself, coding has changed the way I see my own life in a better way than before.
 
-![Lincoln Repository's Stats](https://github-readme-stats.vercel.app/api?username=Lincoln-Araujo&theme=blue-green&show_icons=true)
