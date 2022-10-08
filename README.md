@@ -29,13 +29,13 @@
 <h2 align="center"> :sparkles: Favorite Repositories :sparkles: </h2>
 
 <div align="center" style="widht:100%">
-    <a href="https://github.com/Lincoln-Araujo/Rock-Paper-Scissors-WebGame" target="_blank">
+    <a href="https://github.com/Lincoln-Araujo/My_Tasks" target="_blank">
         <img src="./rep1.png" alt="rock paper and scissors"/>
     </a>
-    <a href="https://github.com/Lincoln-Araujo/Pet-Book">
+    <a href="https://github.com/Lincoln-Araujo/Rock-Paper-Scissors-WebGame">
         <img src="./rep2.png" alt="pet book"/>
     </a>
-    <a href="https://github.com/Lincoln-Araujo/Pokemon-Facts" target="_blank">
+    <a href="https://github.com/Lincoln-Araujo/Pet-Book" target="_blank">
         <img src="./rep3.png" alt="pokedex"/>
     </a>
 </div>
