@@ -1,6 +1,6 @@
 <h1 align="center" > Hi, I'm Lincoln </h1>
 
-<h4 align="center">  FRONT-END DEVELOPER | JAVASCRIPT | REACT | HTML | CSS | UX LOVER <h4>
+<h4 align="center">  FRONT-END DEVELOPER | JAVASCRIPT | NODEjs | REACT | HTML | CSS | UX LOVER <h4>
 
 ![made with markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
