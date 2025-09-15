@@ -1,9 +1,6 @@
-<a href="https://www.linkedin.com/in/lincolnaraujo/" target="_blank" style="width: 100%; display:flex; justify-content:center">
+<a href="https://www.linkedin.com/in/lincolnaraujo/" target="_blank">
     <img src="./FRONT-END_DEVELOPERv5.png"/>
 </a>
-
-# 👋 Hi, I’m Lincoln  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lincolnaraujo/) [LinkedIn](https://www.linkedin.com/in/lincolnaraujo/)
 
 I’m a **Frontend Developer** who truly enjoys bringing ideas to life through code.  
 
@@ -34,6 +31,11 @@ I’ve graduated in **Software Engineering** and also completed a **postgraduate
 I started diving into design because I wanted to better understand how designers think — and how I could make their ideas real through code. Along the way, I discovered how much **accessibility, usability, and design thinking** matter for creating meaningful digital products.  
 
 ---
+
+## 🌐 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lincolnaraujo/)
+
 
 ## 🌱 Ongoing journey  
 
