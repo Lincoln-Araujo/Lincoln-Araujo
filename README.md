@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/lincolnaraujo/" target="_blank" style="display:flex; justify-content:center">
+<a href="https://www.linkedin.com/in/lincolnaraujo/" target="_blank" style="width: 100%; display:flex; justify-content:center">
     <img src="./FRONT-END_DEVELOPERv3.png"/>
 </a>
 
