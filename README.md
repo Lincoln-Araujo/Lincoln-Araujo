@@ -1,9 +1,9 @@
 <a href="https://www.linkedin.com/in/lincolnaraujo/" target="_blank">
     <img src="./FRONT-END_DEVELOPERv5.png"/>
 </a>
-<p></p>
-I’m a **Frontend Developer** who truly enjoys bringing ideas to life through code.  
-<p></p>
+<p>
+I’m a <b>Frontend Developer</b> who truly enjoys bringing ideas to life through code.  
+</p>
 My favorite part of the job is taking a design or concept and turning it into something people can actually use and interact with.  
 <p></p>
 I’ve graduated in **Software Engineering** and also completed a **postgraduate in UX Engineering**, because I wanted to understand not just *how* to build software, but also *why* people use it the way they do. My curiosity doesn’t stop there — one of my future goals is to pursue a **master’s degree in Human-Computer Interaction** (HCI) or a related field, so I can go deeper into how people and technology connect. 
