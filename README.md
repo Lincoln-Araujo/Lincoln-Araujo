@@ -33,7 +33,6 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
 ## 📫 Where to find me  
 
 - [LinkedIn](https://www.linkedin.com/in/lincolnaraujo/)  
-- ✉️ lincoln.fa@hotmail.com  
 
 ---
 
