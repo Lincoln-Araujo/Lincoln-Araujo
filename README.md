@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/lincolnaraujo/" target="_blank">
     <img src="./FRONT-END_DEVELOPERv5.png"/>
 </a>
-  
+<p></p>
 I’m a **Frontend Developer** who truly enjoys bringing ideas to life through code.  
 
 My favorite part of the job is taking a design or concept and turning it into something people can actually use and interact with.  
