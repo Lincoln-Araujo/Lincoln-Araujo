@@ -15,7 +15,7 @@ I’m a <b>Frontend Developer</b> who truly enjoys bringing ideas to life throug
 - **Frontend development**: React, Next.js, Vue, JavaScript, TypeScript, HTML, CSS  
 - **Styling**: Sass, Less, TailwindCSS  
 - **CMS**: Plone 5 & 6 (Volto)  
-- **Design & UX**: Figma, UX Engineering practices, accessibility (a11y), usability principles  
+- **Design & UX**: Figma, UX Engineering practices, accessibility, usability principles  
 - **Other tools**: Node.js, Git, Python basics  
 - **What excites me most**: clean, accessible, and user-friendly web experiences  
 
