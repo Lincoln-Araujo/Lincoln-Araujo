@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/lincolnaraujo/" target="_blank">
-    <img src="./FRONT-END_DEVELOPERv6.png"/>
+    <img src="./FRONT-END_DEVELOPERv7.png"/>
 </a>
 <p></p>
 <p>
