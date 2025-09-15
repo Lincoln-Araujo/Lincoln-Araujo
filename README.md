@@ -1,3 +1,7 @@
+<a href="https://www.linkedin.com/in/lincolnaraujo/" target="_blank">
+    <img src="./FRONT-END_DEVELOPERv3.png"/>
+</a>
+
 # 👋 Hi, I’m Lincoln  
 
 I’m a **Frontend Developer** who truly enjoys bringing ideas to life through code.  
