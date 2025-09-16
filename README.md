@@ -51,7 +51,7 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
     <!-- Card 2 -->
     <td align="center" width="300" valign="top">
       <a href="https://github.com/Lincoln-Araujo/Pet-Book" target="_blank">
-        <img src="https://github.com/Lincoln-Araujo/Lincoln-Araujo/blob/main/canal-educacao-presentation.png" alt="Canal Educação" width="280" />
+        <img src="https://github.com/Lincoln-Araujo/Lincoln-Araujo/blob/main/canal-educacao-presentationv2.png" alt="Canal Educação" width="280" />
       </a>
       <br/><br/>
       <b>Canal Educação</b><br/>
