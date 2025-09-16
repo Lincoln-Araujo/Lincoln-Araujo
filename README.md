@@ -33,51 +33,50 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
 
 ## 🌟 Favorite Projects
 
-<div align="center">
+<table>
+  <tr>
+    <!-- Card 1 -->
+    <td align="center" width="300" valign="top">
+      <a href="https://github.com/Lincoln-Araujo/ux-guideline-explorer" target="_blank">
+        <img src="https://github.com/Lincoln-Araujo/ux-guideline-explorer/blob/main/public/screenshots/landing.png" alt="UX Guidelines Explorer" width="280" />
+      </a>
+      <br/><br/>
+      <b>UX Guidelines Explorer</b><br/>
+      <sub>Next.js • TypeScript • Tailwind • Vitest</sub>
+      <br/><br/>
+      <b>More like this:</b><br/>
+      ✅ <a href="https://github.com/Lincoln-Araujo/user_system_admin">User Management Admin</a><br/>
+      ✅ <a href="https://github.com/Lincoln-Araujo/user_management_api-backend">User Management API</a>
+    </td>
+    <!-- Card 2 -->
+    <td align="center" width="300" valign="top">
+      <a href="https://github.com/Lincoln-Araujo/Pet-Book" target="_blank">
+        <img src="./canal-educacao-presentation.png" alt="Canal Educação" width="280" />
+      </a>
+      <br/><br/>
+      <b>Canal Educação</b><br/>
+      <sub>Figma • Portfolio • UI/UX</sub>
+      <br/><br/>
+      <b>More like this:</b><br/>
+      🐶 <a href="https://www.figma.com/design/uK8l0AeAgauj3Mqr1HRsB4/Site-EBC?node-id=0-1&t=ZZQl0tGKTZOIjC7N-1">EBC's Institutional Website</a><br/>
+      🎮 <a href="https://www.figma.com/design/YsFU9e72tqjfSy8ZQpjYW7/r%C3%A1dio-gov?node-id=513-2&t=OoHVnDLK3WhNRPln-1">Radio Gov New Theme Website</a>
+    </td>
+    <!-- Card 3 -->
+    <td align="center" width="300" valign="top">
+      <a href="https://lincoln-araujo.github.io/portfolio-de-fotografia/">
+        <img src="https://github.com/Lincoln-Araujo/portfolio-de-fotografia/blob/master/images/presentationv2.png" alt="Portfolio de Fotografia" width="280" />
+      </a>
+      <br/><br/>
+      <b>Portfolio de Fotografia</b><br/>
+      <sub>JavaScript • DOM • CSS</sub>
+      <br/><br/>
+      <b>More like this:</b><br/>
+      🎨 <a href="https://www.figma.com/design/Du059thHLtBolYtMJY0hAl/Site-de-fotos?node-id=132-1936&t=U2rrMzZojSbqKOWd-1" target="_blank">Projeto Portfolio de Fotografia (Figma)</a><br/>
+      ✅ <a href="https://github.com/Lincoln-Araujo/Diagonal-Cascade-Image-Animation">Diagonal Cascade Image Animation</a>
+    </td>
+  </tr>
+</table>
 
-  <!-- Card 1 -->
-  <div style="display:inline-block; width:300px; margin:10px; vertical-align:top;">
-    <a href="https://github.com/Lincoln-Araujo/ux-guideline-explorer" target="_blank">
-      <img src="https://github.com/Lincoln-Araujo/ux-guideline-explorer/blob/main/public/screenshots/landing.png" alt="UX Guidelines Explorer" width="300" />
-    </a>
-    <br/>
-    <b>UX Guidelines Explorer</b><br/>
-    <sub>Next.js • TypeScript • Tailwind • Vitest</sub>
-    <br/><br/>
-    <b>More like this:</b><br/>
-    ✅ <a href="https://github.com/Lincoln-Araujo/user_system_admin">User Management Admin</a><br/>
-    ✅ <a href="https://github.com/Lincoln-Araujo/user_management_api-backend">User Management API</a><br/> 
-  </div>
-
-  <!-- Card 2 -->
-  <div style="display:inline-block; width:300px; margin:10px; vertical-align:top;">
-    <a href="https://github.com/Lincoln-Araujo/Pet-Book" target="_blank">
-      <img src="./canal-educacao-presentation.png" alt="Canal Educação" width="300" />
-    </a>
-    <br/>
-    <b>Canal Educação</b><br/>
-    <sub>Figma • Portfolio • UI/UX</sub>
-    <br/><br/>
-    <b>More like this:</b><br/>
-    🐶 <a href="https://www.figma.com/design/uK8l0AeAgauj3Mqr1HRsB4/Site-EBC?node-id=0-1&t=ZZQl0tGKTZOIjC7N-1">EBC's Institutional Website</a><br/>
-    🎮 <a href="https://www.figma.com/design/YsFU9e72tqjfSy8ZQpjYW7/r%C3%A1dio-gov?node-id=513-2&t=OoHVnDLK3WhNRPln-1">Radio Gov New Theme Website</a>
-  </div>
-
-  <!-- Card 3 -->
-  <div style="display:inline-block; width:300px; margin:10px; vertical-align:top;">
-    <a href="https://lincoln-araujo.github.io/portfolio-de-fotografia/">
-      <img src="https://github.com/Lincoln-Araujo/portfolio-de-fotografia/blob/master/images/presentationv2.png" alt="Diagonal-Cascade-Image-Animation" width="300" />
-    </a>
-    <br/>
-    <b>Portfolio de Fotografia</b><br/>
-    <sub>JavaScript • DOM • CSS</sub>
-    <br/><br/>
-    <b>More like this:</b><br/>
-    🎨 <a href="https://www.figma.com/design/Du059thHLtBolYtMJY0hAl/Site-de-fotos?node-id=132-1936&t=U2rrMzZojSbqKOWd-1" target="_blank">Projeto Portfolio de Fotografia (Figma)</a><br/>
-    ✅ <a href="https://github.com/Lincoln-Araujo/Diagonal-Cascade-Image-Animation">Diagonal Cascade Image Animation</a>
-  </div>
-
-</div>
 
 
 ### 🌐 Connect with me
