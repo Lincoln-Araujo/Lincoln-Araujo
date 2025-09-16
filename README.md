@@ -61,8 +61,8 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
       <br/><br/>
       <b>More like this:</b><br/>
       <div align="left">
-      🐶 <a href="https://www.figma.com/design/uK8l0AeAgauj3Mqr1HRsB4/Site-EBC?node-id=0-1&t=ZZQl0tGKTZOIjC7N-1">EBC's Institutional Website</a><br/>
-      🎮 <a href="https://www.figma.com/design/YsFU9e72tqjfSy8ZQpjYW7/r%C3%A1dio-gov?node-id=513-2&t=OoHVnDLK3WhNRPln-1">Radio Gov New Theme Website</a>
+      🎨 <a href="https://www.figma.com/design/uK8l0AeAgauj3Mqr1HRsB4/Site-EBC?node-id=0-1&t=ZZQl0tGKTZOIjC7N-1">EBC's Institutional Website</a><br/>
+      🎨 <a href="https://www.figma.com/design/YsFU9e72tqjfSy8ZQpjYW7/r%C3%A1dio-gov?node-id=513-2&t=OoHVnDLK3WhNRPln-1">Radio Gov New Theme Website</a>
       </div>
     </td>
     <!-- Card 3 -->
