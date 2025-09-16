@@ -38,7 +38,7 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
     <!-- Card 1 -->
     <td align="center" width="300" valign="top">
       <a href="https://github.com/Lincoln-Araujo/ux-guideline-explorer" target="_blank">
-        <img src="https://github.com/Lincoln-Araujo/ux-guideline-explorer/blob/main/public/screenshots/landing.png" alt="UX Guidelines Explorer" width="280" />
+        <img src="https://github.com/Lincoln-Araujo/Lincoln-Araujo/blob/main/home.png" alt="UX Guidelines Explorer" width="280" />
       </a>
       <br/><br/>
       <b>UX Guidelines Explorer</b><br/>
@@ -51,7 +51,7 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
     <!-- Card 2 -->
     <td align="center" width="300" valign="top">
       <a href="https://github.com/Lincoln-Araujo/Pet-Book" target="_blank">
-        <img src="./canal-educacao-presentation.png" alt="Canal Educação" width="280" />
+        <img src="https://github.com/Lincoln-Araujo/Lincoln-Araujo/blob/main/canal-educacao-presentation.png" alt="Canal Educação" width="280" />
       </a>
       <br/><br/>
       <b>Canal Educação</b><br/>
