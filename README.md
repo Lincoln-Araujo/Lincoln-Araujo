@@ -31,5 +31,54 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)  ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  ![less](https://img.shields.io/badge/Less-2A4D80?style=for-the-badge&logo=less&logoColor=white)  ![tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  ![plone](https://img.shields.io/badge/Plone-003366?style=for-the-badge&logo=plone&logoColor=white)  ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
 
+## 🌟 Favorite Projects
+
+<div align="center">
+
+  <!-- Card 1 -->
+  <div style="display:inline-block; width:300px; margin:10px; vertical-align:top;">
+    <a href="https://github.com/Lincoln-Araujo/ux-guideline-explorer" target="_blank">
+      <img src="https://raw.githubusercontent.com/Lincoln-Araujo/ux-guidelines-explorer/main/public/screenshots/cover-landing.png" alt="UX Guidelines Explorer" width="300" />
+    </a>
+    <br/>
+    <b>UX Guidelines Explorer</b><br/>
+    <sub>Next.js • TypeScript • Tailwind • Vitest</sub>
+    <br/><br/>
+    <b>More like this:</b><br/>
+    ✅ <a href="https://github.com/Lincoln-Araujo/user_system_admin">User Management Admin</a><br/>
+    ✅ <a href="https://github.com/Lincoln-Araujo/user_management_api-backend">User Management API</a><br/> 
+  </div>
+
+  <!-- Card 2 -->
+  <div style="display:inline-block; width:300px; margin:10px; vertical-align:top;">
+    <a href="https://github.com/Lincoln-Araujo/Pet-Book" target="_blank">
+      <img src="./canal-educacao-presentation.png" alt="Canal Educação" width="300" />
+    </a>
+    <br/>
+    <b>Canal Educação</b><br/>
+    <sub>Figma • Portfolio • UI/UX</sub>
+    <br/><br/>
+    <b>More like this:</b><br/>
+    🐶 <a href="https://www.figma.com/design/uK8l0AeAgauj3Mqr1HRsB4/Site-EBC?node-id=0-1&t=ZZQl0tGKTZOIjC7N-1">EBC's Institutional Website</a><br/>
+    🎮 <a href="https://www.figma.com/design/YsFU9e72tqjfSy8ZQpjYW7/r%C3%A1dio-gov?node-id=513-2&t=OoHVnDLK3WhNRPln-1">Radio Gov New Theme Website</a>
+  </div>
+
+  <!-- Card 3 -->
+  <div style="display:inline-block; width:300px; margin:10px; vertical-align:top;">
+    <a href="https://lincoln-araujo.github.io/portfolio-de-fotografia/">
+      <img src="https://github.com/Lincoln-Araujo/portfolio-de-fotografia/blob/master/images/presentationv2.png" alt="Diagonal-Cascade-Image-Animation" width="300" />
+    </a>
+    <br/>
+    <b>Portfolio de Fotografia</b><br/>
+    <sub>JavaScript • DOM • CSS</sub>
+    <br/><br/>
+    <b>More like this:</b><br/>
+    🎨 <a href="https://www.figma.com/design/Du059thHLtBolYtMJY0hAl/Site-de-fotos?node-id=132-1936&t=U2rrMzZojSbqKOWd-1" target="_blank">Projeto Portfolio de Fotografia (Figma)</a><br/>
+    ✅ <a href="https://github.com/Lincoln-Araujo/Diagonal-Cascade-Image-Animation">Diagonal Cascade Image Animation</a>
+  </div>
+
+</div>
+
+
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lincolnaraujo/)
