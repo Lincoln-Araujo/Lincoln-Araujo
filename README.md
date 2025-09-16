@@ -83,7 +83,7 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
   </tr>
 </table>
 
-
+---
 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lincolnaraujo/)
