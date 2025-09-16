@@ -52,7 +52,7 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
     </td>
     <!-- Card 2 -->
     <td align="center" width="300" valign="top">
-      <a href="https://github.com/Lincoln-Araujo/Pet-Book" target="_blank">
+      <a href="https://www.figma.com/design/lYIXXn6yK6ePXGKNey84Eo/Canal-Educa%C3%A7%C3%A3o?node-id=2077-2&t=4WdrgewToDhFRsle-1" target="_blank">
         <img src="https://github.com/Lincoln-Araujo/Lincoln-Araujo/blob/main/canal-educacao-presentationv2.png" alt="Canal Educação" width="300" />
       </a>
       <br/><br/>
