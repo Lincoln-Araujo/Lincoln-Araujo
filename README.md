@@ -38,7 +38,7 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
   <!-- Card 1 -->
   <div style="display:inline-block; width:300px; margin:10px; vertical-align:top;">
     <a href="https://github.com/Lincoln-Araujo/ux-guideline-explorer" target="_blank">
-      <img src="https://raw.githubusercontent.com/Lincoln-Araujo/ux-guidelines-explorer/main/public/screenshots/cover-landing.png" alt="UX Guidelines Explorer" width="300" />
+      <img src="https://github.com/Lincoln-Araujo/ux-guideline-explorer/blob/main/public/screenshots/landing.png" alt="UX Guidelines Explorer" width="300" />
     </a>
     <br/>
     <b>UX Guidelines Explorer</b><br/>
