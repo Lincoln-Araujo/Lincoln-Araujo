@@ -76,8 +76,8 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
       <br/><br/>
       <b>More like this:</b><br/>
       <div align="left">
-      🎨 <a href="https://www.figma.com/design/Du059thHLtBolYtMJY0hAl/Site-de-fotos?node-id=132-1936&t=U2rrMzZojSbqKOWd-1" target="_blank">Projeto Portfolio de Fotografia (Figma)</a><br/>
-      ✅ <a href="https://github.com/Lincoln-Araujo/Diagonal-Cascade-Image-Animation">Diagonal Cascade Image Animation</a>
+      🎨 <a href="https://www.figma.com/design/Du059thHLtBolYtMJY0hAl/Site-de-fotos?node-id=132-1936&t=U2rrMzZojSbqKOWd-1" target="_blank">Project on (Figma)</a><br/>
+      ✅ <a href="https://github.com/Lincoln-Araujo/Diagonal-Cascade-Image-Animation">Diagonal Cascade Animation</a>
       </div>
     </td>
   </tr>
