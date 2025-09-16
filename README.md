@@ -38,7 +38,7 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
     <!-- Card 1 -->
     <td align="center" width="300" valign="top">
       <a href="https://github.com/Lincoln-Araujo/ux-guideline-explorer" target="_blank">
-        <img src="https://github.com/Lincoln-Araujo/Lincoln-Araujo/blob/main/home.png" alt="UX Guidelines Explorer" width="280" />
+        <img src="https://github.com/Lincoln-Araujo/Lincoln-Araujo/blob/main/home.png" alt="UX Guidelines Explorer" width="300" />
       </a>
       <br/><br/>
       <b>UX Guidelines Explorer</b><br/>
@@ -51,7 +51,7 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
     <!-- Card 2 -->
     <td align="center" width="300" valign="top">
       <a href="https://github.com/Lincoln-Araujo/Pet-Book" target="_blank">
-        <img src="https://github.com/Lincoln-Araujo/Lincoln-Araujo/blob/main/canal-educacao-presentationv2.png" alt="Canal Educação" width="280" />
+        <img src="https://github.com/Lincoln-Araujo/Lincoln-Araujo/blob/main/canal-educacao-presentationv2.png" alt="Canal Educação" width="300" />
       </a>
       <br/><br/>
       <b>Canal Educação</b><br/>
@@ -64,7 +64,7 @@ I’m always learning something new. Sometimes it’s a framework, sometimes a d
     <!-- Card 3 -->
     <td align="center" width="300" valign="top">
       <a href="https://lincoln-araujo.github.io/portfolio-de-fotografia/">
-        <img src="https://github.com/Lincoln-Araujo/portfolio-de-fotografia/blob/master/images/presentationv2.png" alt="Portfolio de Fotografia" width="280" />
+        <img src="https://github.com/Lincoln-Araujo/portfolio-de-fotografia/blob/master/images/presentationv2.png" alt="Portfolio de Fotografia" width="300" />
       </a>
       <br/><br/>
       <b>Portfolio de Fotografia</b><br/>
