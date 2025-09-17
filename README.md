@@ -8,7 +8,7 @@ I’m a <b>Frontend Developer</b> who truly enjoys bringing ideas to life throug
   
 <p>My favorite part of the job is taking a design or concept and turning it into something people can actually use and interact with.</p>
  
-<p>I’ve graduated in <b>Software Engineering</b> and also completed a <b>postgraduate in UX Engineering</b>, because I wanted to understand not just <b>how</b> to build software, but also <b>why</b> people use it the way they do.</br> My curiosity doesn’t stop there — one of my future goals is to pursue a <b>master’s degree in Human-Computer Interaction</b> (HCI) or a related field, so I can go deeper into how people and technology connect.</p>
+<p>I’ve graduated in <b>Software Engineering</b> and also completed a <b>postgraduate in UX Engineering</b>, because I wanted to understand not just <b>how</b> to build software, but also <b>why</b> people use it the way they do.</br></br> My curiosity doesn’t stop there — one of my future goals is to pursue a <b>master’s degree in Human-Computer Interaction</b> (HCI) or a related field, so I can go deeper into how people and technology connect.</p>
 
 ## ✨ What I enjoy working with  
 
