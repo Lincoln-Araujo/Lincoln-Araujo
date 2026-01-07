@@ -11,7 +11,7 @@ I currently work on large-scale public and institutional platforms, collaboratin
 ### What I work with
 
 - Front-end development using **React** and **Vue**
-- UX-focused implementation and design collaboration
+- UX-focused implementation and close collaboration with design teams
 - **Accessibility (WCAG)** and inclusive interface practices
 - Scalable digital platforms in public and institutional contexts
 - HTML, CSS, JavaScript, and modern styling approaches
@@ -20,20 +20,20 @@ I currently work on large-scale public and institutional platforms, collaboratin
 
 ### Selected work
 
-- **UX Guidelines Explorer**  
-  Front-end project exploring usability guidelines, interface structure, and scalable UI patterns.
+- **B2B Energy Portal – Front-End & UX Concept**  
+  Front-end and UX concept for a complex B2B platform, focused on interface structure, usability, and scalable user workflows.
 
-- **Public Digital Platforms (Front-End & UX)**  
-  Design and front-end work on large-scale public platforms, focused on usability, visual clarity, and long-term maintainability.
+- **GrandReserve – UI/UX Redesign**  
+  UX and interface redesign proposal for an existing reservation management system, focusing on clarity, usability improvements, and scalable design decisions within real-world constraints.
 
-- **Photography Portfolio (Front-End)**  
-  Personal project focused on layout, interaction, and visual presentation using vanilla JavaScript and CSS.
+- **MPF – Public Institutional Website**  
+  Front-end and UX work for a public-sector website, with emphasis on information hierarchy, visual clarity, and accessibility-aware design choices.
 
 ---
 
 ### Continuous learning
 
-I value continuous learning and long-term growth, focusing on improving how interfaces are designed, built, and maintained in complex digital products.
+I value continuous learning and long-term growth, focusing on improving how interfaces are designed, built, and maintained in complex digital products. My learning process is driven by real-world challenges rather than isolated experiments.
 
 ---
 
