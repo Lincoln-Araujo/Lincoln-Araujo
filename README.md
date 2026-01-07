@@ -21,13 +21,16 @@ I currently work on large-scale public and institutional platforms, collaboratin
 ### Selected work
 
 - **B2B Energy Portal – Front-End & UX Concept**  
-  Front-end and UX concept for a complex B2B platform, focused on interface structure, usability, and scalable user workflows.
+  Front-end and UX concept for a complex B2B platform, focused on interface structure, usability, and scalable user workflows.  
+  🔗 https://github.com/Lincoln-Araujo/B2B-Energy-Portal-Frontend-UX-Concept
 
 - **GrandReserve – UI/UX Redesign**  
-  UX and interface redesign proposal for an existing reservation management system, focusing on clarity, usability improvements, and scalable design decisions within real-world constraints.
+  UX and interface redesign proposal for an existing reservation management system, focusing on clarity, usability improvements, and scalable design decisions within real-world constraints.  
+  🔗 https://github.com/Lincoln-Araujo/grandreserve-ui-ux-redesign
 
 - **MPF – Public Institutional Website**  
-  Front-end and UX work for a public-sector website, with emphasis on information hierarchy, visual clarity, and accessibility-aware design choices.
+  Front-end and UX work for a public-sector website, with emphasis on information hierarchy, visual clarity, and accessibility-aware design choices.  
+  🔗 https://github.com/Lincoln-Araujo/MPF_new_website
 
 ---
 
